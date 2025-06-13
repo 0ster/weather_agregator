@@ -1,0 +1,293 @@
+2025.06.12 12:50:29 INFO  Started: Metals version 1.6.0 in folders 'C:\Users\eser_\Downloads\weather_agregator' for client Visual Studio Code 1.100.3.
+2025.06.12 12:50:30 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:32 INFO  Attempting to connect to the build server...
+2025.06.12 12:50:32 INFO  Found a Bloop server running
+2025.06.12 12:50:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\eser_\Downloads\weather_agregator\.metals\bsp.trace.json or C:\Users\eser_\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.12 12:50:32 INFO  time: Connected to build server in 0.29s
+2025.06.12 12:50:32 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.12 12:50:32 INFO  Created report: Optional.empty
+2025.06.12 12:50:32 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.12 12:50:32 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.12 12:50:32 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.12 12:50:32 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.12 12:50:32 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.12 12:50:32 INFO  time: Imported build in 0.13s
+2025.06.12 12:50:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:35 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:37 INFO  time: indexed workspace in 4.87s
+2025.06.12 12:50:37 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala
+2025.06.12 12:50:37 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:37 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala
+2025.06.12 12:50:37 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt
+2025.06.12 12:50:37 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:37 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:38 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:48 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:55 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala
+2025.06.12 12:50:55 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:55 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:56 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:55 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:56 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:00 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:00 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala
+2025.06.12 12:50:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:00 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:50:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:00 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:17 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:17 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt
+2025.06.12 12:51:17 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:17 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:17 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:18 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:27 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:27 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:27 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc
+2025.06.12 12:51:27 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:27 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:27 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:27 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:27 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:27 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+èþí. 12, 2025 12:51:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:32 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:34 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala
+2025.06.12 12:51:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:37 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\test\controllers\HomeControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:37 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\utils\FlywayMigrator.scala
+2025.06.12 12:51:37 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\utils\FlywayMigrator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:37 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\utils\FlywayMigrator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:38 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\utils\FlywayMigrator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:37 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\utils\FlywayMigrator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:38 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\utils\FlywayMigrator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:38 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\utils\FlywayMigrator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:44 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\utils\FlywayMigrator.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:49 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Services\WeatherDataServiceImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:49 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Services\WeatherDataServiceImpl.scala
+2025.06.12 12:51:49 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Services\WeatherDataServiceImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:49 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Services\WeatherDataServiceImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+èþí. 12, 2025 12:51:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 93
+2025.06.12 12:51:49 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Services\WeatherDataServiceImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:49 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Services\WeatherDataServiceImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:50 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Services\WeatherDataServiceImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Services\WeatherDataServiceImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepository.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:50 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepository.scala
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepository.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepository.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepository.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepository.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:51 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:52 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:52 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:52 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:52 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:57 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:57 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:58 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:51:58 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Repositories\WeatherDataRepositoryImpl.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:51 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt
+2025.06.12 12:52:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:55 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:55 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:57 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:58 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:58 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:52:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:03 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.12 12:53:11 INFO  Shutting down server
+2025.06.12 12:53:11 INFO  shutting down Metals
+2025.06.12 12:53:11 INFO  Shut down connection with build server.
+2025.06.12 12:53:11 INFO  Exiting server
+2025.06.13 21:33:45 INFO  Started: Metals version 1.6.0 in folders 'C:\Users\eser_\Downloads\weather_agregator' for client Visual Studio Code 1.101.0.
+2025.06.13 21:33:51 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:52 INFO  Attempting to connect to the build server...
+2025.06.13 21:33:52 INFO  Found a Bloop server running
+2025.06.13 21:33:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\eser_\Downloads\weather_agregator\.metals\bsp.trace.json or C:\Users\eser_\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.13 21:33:52 INFO  time: Connected to build server in 0.42s
+2025.06.13 21:33:52 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.13 21:33:52 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.13 21:33:52 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.13 21:33:52 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.13 21:33:52 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.13 21:33:52 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\bloop\2025-06-12\r_Empty build targets...._12-50-32-436.md")
+2025.06.13 21:33:52 INFO  time: Imported build in 0.16s
+2025.06.13 21:33:53 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:53 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+èþí. 13, 2025 9:33:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.06.13 21:33:53 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:53 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:53 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:55 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+èþí. 13, 2025 9:33:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2025.06.13 21:33:55 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:55 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:55 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:57 INFO  time: indexed workspace in 4.18s
+2025.06.13 21:33:57 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala
+2025.06.13 21:33:57 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala
+2025.06.13 21:33:57 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:57 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt
+2025.06.13 21:33:57 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:58 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:58 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\Modules\Module.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:59 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala
+2025.06.13 21:33:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:33:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:00 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:00 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:22 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:22 INFO  running 'C:\Users\eser_\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\17\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\eser_\AppData\Local\Temp\metals7105424239304964963\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.06.13 21:34:22 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.11  (this may take some time)...
+2025.06.13 21:34:25 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:33 INFO  [info] welcome to sbt 1.10.11 (Eclipse Adoptium Java 17.0.15)
+2025.06.13 21:34:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\app\models\WeatherModel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:34 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt
+2025.06.13 21:34:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:34 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:34:36 INFO  [info] loading settings for project weather_agregator-build-build-build from metals.sbt...
+2025.06.13 21:34:36 INFO  [info] loading project definition from C:\Users\eser_\Downloads\weather_agregator\weather_agregator\project\project\project
+2025.06.13 21:34:40 INFO  [info] loading settings for project weather_agregator-build-build from metals.sbt...
+2025.06.13 21:34:40 INFO  [info] loading project definition from C:\Users\eser_\Downloads\weather_agregator\weather_agregator\project\project
+2025.06.13 21:34:42 INFO  [warn] sbt-bloop_2.12_1.0-2.0.10-sources.jar no longer exists at C:\Users\USER\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\ch\epfl\scala\sbt-bloop_2.12_1.0\2.0.10\sbt-bloop_2.12_1.0-2.0.10-sources.jar
+2025.06.13 21:34:45 INFO  [success] Generated .bloop\weather_agregator-build-build.json
+2025.06.13 21:34:45 INFO  [success] Total time: 5 s, completed 13 Ð¸ÑŽÐ½. 2025 Ð³., 21:34:45
+2025.06.13 21:34:46 INFO  [info] loading settings for project weather_agregator-build from metals.sbt, plugins.sbt...
+2025.06.13 21:34:46 INFO  [info] loading project definition from C:\Users\eser_\Downloads\weather_agregator\weather_agregator\project
+2025.06.13 21:34:51 INFO  [warn] sbt-bloop_2.12_1.0-2.0.10-sources.jar no longer exists at C:\Users\USER\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\ch\epfl\scala\sbt-bloop_2.12_1.0\2.0.10\sbt-bloop_2.12_1.0-2.0.10-sources.jar
+2025.06.13 21:34:54 INFO  [success] Generated .bloop\weather_agregator-build.json
+2025.06.13 21:34:54 INFO  [success] Total time: 8 s, completed 13 Ð¸ÑŽÐ½. 2025 Ð³., 21:34:54
+2025.06.13 21:34:58 INFO  [info] loading settings for project root from build.sbt...
+2025.06.13 21:34:58 INFO  [info]   __              __
+2025.06.13 21:34:58 INFO  [info]   \ \     ____   / /____ _ __  __
+2025.06.13 21:34:58 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2025.06.13 21:34:58 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2025.06.13 21:34:58 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2025.06.13 21:34:58 INFO  [info]       /_/               /____/
+2025.06.13 21:34:58 INFO  [info] 
+2025.06.13 21:34:58 INFO  [info] Version 3.0.7 running Java 17.0.15
+2025.06.13 21:34:58 INFO  [info] 
+2025.06.13 21:34:58 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2025.06.13 21:34:58 INFO  [info] https://www.playframework.com/sponsors
+2025.06.13 21:34:58 INFO  [info] 
+2025.06.13 21:35:12 INFO  [warn] scala3-library_3-3.3.6-sources.jar no longer exists at C:\Users\USER\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.3.6\scala3-library_3-3.3.6-sources.jar
+2025.06.13 21:35:19 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:35:20 INFO  [success] Generated .bloop\root.json
+2025.06.13 21:35:20 INFO  [success] Generated .bloop\root-test.json
+2025.06.13 21:35:20 INFO  [success] Total time: 22 s, completed 13 Ð¸ÑŽÐ½. 2025 Ð³., 21:35:21
+2025.06.13 21:35:21 INFO  time: ran 'sbt bloopInstall' in 59s
+2025.06.13 21:35:21 INFO  Disconnecting from Bloop session...
+2025.06.13 21:35:21 INFO  Shut down connection with build server.
+2025.06.13 21:35:21 INFO  Attempting to connect to the build server...
+2025.06.13 21:35:21 INFO  Found a Bloop server running
+2025.06.13 21:35:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\eser_\Downloads\weather_agregator\.metals\bsp.trace.json or C:\Users\eser_\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.13 21:35:23 INFO  time: Connected to build server in 2.3s
+2025.06.13 21:35:23 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.13 21:35:23 INFO  time: Imported build in 0.1s
+2025.06.13 21:35:32 INFO  compiling root (16 scala sources and 1 java source)
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.13 21:35:43 INFO  time: compiled root in 11s
+2025.06.13 21:35:48 INFO  time: indexed workspace in 24s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.13 21:35:48 INFO  compiling root-test (1 scala source)
+2025.06.13 21:35:50 INFO  time: compiled root-test in 2.57s
+èþí. 13, 2025 9:36:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.13 21:37:56 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:37:56 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt
+2025.06.13 21:37:56 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:37:56 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:37:56 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:37:57 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:37:58 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:37:58 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:37:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:37:59 INFO  Created report: Optional[file:///C:/Users/eser_/Downloads/weather_agregator/weather_agregator/build.sbt]
+2025.06.13 21:37:59 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\eser_\Downloads\weather_agregator\.metals\.reports\metals-full\2025-06-13\r_empty-definition_21-37-59-424.md")
+2025.06.13 21:37:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:37:59 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:01 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:01 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:02 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:02 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:01 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:02 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:02 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:02 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:02 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:02 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:20 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:20 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:20 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc
+2025.06.13 21:38:20 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:20 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:20 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:20 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:23 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sc. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:23 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:23 WARN  no build target for: C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt
+2025.06.13 21:38:23 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:23 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:23 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:38:23 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:40:54 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.13 21:40:54 INFO  no build target found for C:\Users\eser_\Downloads\weather_agregator\weather_agregator\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+èþí. 13, 2025 9:51:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
